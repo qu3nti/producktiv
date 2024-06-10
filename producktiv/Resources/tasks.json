@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Go on a run",
+        "description": "Run at least a 5k in under 30 minutes",
+        "progress": 0.7,
+        "numerator": 7,
+        "denominator": 10,
+        "units": "km",
+        "img": "figure.run",
+        "isFavorite": true,
+        "isPrivate": false,
+        "isStreak": false,
+        "currentStreak": 0
+    },
+    {
+        "id": "2",
+        "name": "Walk the dog",
+        "description": "The dog needs to be walked for at least 30 minutes",
+        "progress": 4.3,
+        "numerator": 43,
+        "denominator": 100,
+        "units": "minutes",
+        "img": "figure.and.child.holdinghands",
+        "isFavorite": false,
+        "isPrivate": true,
+        "isStreak": false,
+        "currentStreak": 0
+    },
+    {
+        "id": "3",
+        "name": "Take medication",
+        "description": "Blood pressure medication needs to be taken every morning before 10am",
+        "progress": 5.3,
+        "numerator": 53,
+        "denominator": 100,
+        "units": "pill",
+        "img": "pill.fill",
+        "isFavorite": true,
+        "isPrivate": false,
+        "isStreak": true,
+        "currentStreak": 12
+    }
+]

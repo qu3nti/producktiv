@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD1E2CDA-2D4D-4667-B95F-F779B54864E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "producktiv/Views/Pages/AddTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "AddTaskView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - ccd3039dae2b87ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of producktiv.AddTaskView.denominator : Swift.Int"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Public/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - c3c24919f9ac3dc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.denominator.getter : Swift.Int"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Public/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - b966acb35e4b71d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.denominator.setter : Swift.Int"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Public/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - 1826d8e1748902c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.denominator.modify : Swift.Int"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Public/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - 5a5c431ced3d52d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.denominator.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Public/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - 7f3340ec0c59b71e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.$denominator.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Public/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - 2bb1757fe5eb9971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of producktiv.AddTaskView.denominator : Swift.Int"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - 24a03ffbb26c231f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.denominator.getter : Swift.Int"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - 5e04da51158b6f0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.denominator.setter : Swift.Int"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - ff44ae033f491c1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.denominator.modify : Swift.Int"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - bd3e35fea6fd4c0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.denominator.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "B899E5CC-C2B8-4089-931C-4AEFF0C6916F - 9851360e4799a9c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "producktiv.AddTaskView.$denominator.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "producktiv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/quentinpompliano/Dev/producktiv/producktiv/Views/Pages/AddTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A9C35F3-63F3-4DD2-B2E8-347A1155CC54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "producktiv/Views/Components/StreakHelpers/Calendar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACFD77EA-8057-4F85-85AE-9FC52DF00EE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "producktiv/Views/NavigationBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E1B0A22-C84B-4458-98D2-ED649F862C14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "producktiv/Views/Components/ProfileHelpers/SearchSheet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
